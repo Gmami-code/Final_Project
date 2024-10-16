@@ -1,5 +1,5 @@
 # Example
-# Similar project I found online
+# This a project I found online that's similar to what I want to do
 # Not my work
 
 class Room(object):
